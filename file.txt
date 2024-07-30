@@ -1,5 +1,5 @@
-Line 1: This is the first version of the file.
-Line 2: This content is used to demonstrate git conflicts.
-Line 3: Let's make some changes and see what happens.
-Line 4: Conflicts can be tricky but are important to understand.
-Line 5: Practice makes perfect!
+Line 1: This is the second version of the file.
+Line 2: Git conflicts can occur when changes overlap.
+Line 3: Resolving conflicts is a crucial skill.
+Line 4: Understanding how to handle them will improve your workflow.
+Line 5: Keep practicing!
